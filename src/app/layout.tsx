@@ -1,5 +1,6 @@
-import "./globals.css";
+import { ReactNode } from "react";
 import { Archivo } from "next/font/google";
+import "./globals.css";
 
 const archivo = Archivo({ subsets: ["latin"], variable: "--font-archivo" });
 
