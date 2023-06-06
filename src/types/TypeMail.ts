@@ -1,15 +1,5 @@
-export type Mail = {
-  session: {
-    expiresAt: string;
-    mails: mailData[];
-  };
-};
-
-export type mailData = {
-  rawSize: number;
+export interface Mail {
   fromAddr: string;
-  toAddr: string;
-  downloadUrl: string;
   text: string;
   headerSubject: string;
-};
+}
