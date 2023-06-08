@@ -1,6 +1,6 @@
 "use client"
 import Image from "next/image";
-import logoDrop from "../../public/logo.svg";
+import logoDrop from "../../public/logoDrop.svg";
 import { useState } from "react";
 
 export function Header() {
