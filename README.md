@@ -50,9 +50,6 @@ Tabela de conteúdos
 ---
 
 ## 🎨 Layout <a name="layout"></a>
-### Desktop:
-![desktop (1)](https://github.com/lRauane/dropmail/assets/102835801/b23b632c-98b6-4293-88d3-585596759174)
-
 
 ### Web <a name="layout-web"></a>
 A hospedagem do site está em: [Vercel](https://dropmail-black.vercel.app/)
