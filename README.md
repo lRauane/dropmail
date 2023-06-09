@@ -146,6 +146,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🦸 Autor <a name="autor">Rauane Lima</a>
 [github](https://github.com/lRauane/)
+|
 [linkedln](https://www.linkedin.com/in/rauanee/)
 
 ---
