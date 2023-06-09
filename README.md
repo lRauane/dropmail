@@ -34,7 +34,7 @@ Tabela de conteúdos
 
 
 ## 💻 Sobre o projeto <a name="sobre-o-projeto"></a>
-<p>Uma aplicação que consuma uma API de email temporário para que os usuários possam utilizar serviços sem expor seu email real, seguindo os requisitos propostos neste desafio.</p>
+<p>A aplicação proposta tem como objetivo permitir que os usuários utilizem serviços online sem expor seu endereço de email real. Para isso, ela irá consumir uma API de email temporário, que fornece endereços de email descartáveis e temporários.</p>
 ---
 
 ## ⚙️ Funcionalidades <a name="funcionalidades"></a>
